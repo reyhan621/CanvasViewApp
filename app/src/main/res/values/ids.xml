@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="canvas_view" type="id" />
+    <item name="fab_color_picker" type="id" />
+    <item name="fab_width_stroke" type="id" />
+</resources>
